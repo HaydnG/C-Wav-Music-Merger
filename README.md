@@ -7,12 +7,11 @@ Take two wav files read the headers and mix according to the percentages provide
 * Memory editing and reading of a wav file
 
 # Usage
-
-## First specify both files you want to merge
+* First specify both files you want to merge
 
 Track1 File:
 Track2 File:
 
-## Then specify the percentage to mix
+* Then specify the percentage to mix
 
 How much percentage of track 1 would you like?(0-100):
